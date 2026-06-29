@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     question: "How can I make a booking?",
-    answer: "You can easily make a booking by contacting us directly via WhatsApp or Phone call on +91 8948413360."
+    answer: "You can easily make a booking by contacting us directly via WhatsApp or Phone call on +91 9001452087."
   }
 ];
 

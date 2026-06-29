@@ -60,7 +60,7 @@ const Rooms = () => {
                   <div className="amenity-item"><Tv size={16} /> TV</div>
                   <div className="amenity-item"><Coffee size={16} /> Service</div>
                 </div>
-                <a href="https://wa.me/918948413360" className="btn btn-primary w-100" target="_blank" rel="noreferrer">
+                <a href="https://wa.me/919001452087" className="btn btn-primary w-100" target="_blank" rel="noreferrer">
                   Book on WhatsApp
                 </a>
               </div>

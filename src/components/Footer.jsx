@@ -23,7 +23,7 @@ const Footer = () => {
               </li>
               <li>
                 <Phone className="footer-icon" />
-                <span><a href="tel:+918948413360">+91 8948413360</a></span>
+                <span><a href="tel:+919001452087">+91 9001452087</a></span>
               </li>
               <li>
                 <Mail className="footer-icon" />
