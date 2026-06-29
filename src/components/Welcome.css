@@ -1,0 +1,72 @@
+.welcome-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.welcome-text {
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+.welcome-features {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.feature-item {
+  color: var(--text-main);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.welcome-image-wrapper {
+  position: relative;
+  height: 100%;
+  min-height: 400px;
+}
+
+.welcome-image {
+  border-radius: var(--radius);
+  height: 100%;
+  box-shadow: var(--shadow-xl);
+}
+
+.experience-badge {
+  position: absolute;
+  bottom: -20px;
+  left: -20px;
+  background: var(--primary);
+  color: white;
+  padding: 1.5rem;
+  border-radius: var(--radius);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  box-shadow: var(--shadow-lg);
+  border: 4px solid var(--bg-card);
+}
+
+.badge-number {
+  font-family: var(--font-heading);
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.badge-text {
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+@media (min-width: 992px) {
+  .welcome-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
