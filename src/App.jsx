@@ -8,6 +8,7 @@ import Gallery from './components/Gallery'
 import FAQ from './components/FAQ'
 import Footer from './components/Footer'
 import FloatingWhatsApp from './components/FloatingWhatsApp'
+import FloatingCall from './components/FloatingCall'
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       </main>
       <Footer />
       <FloatingWhatsApp />
+      <FloatingCall />
     </>
   )
 }
