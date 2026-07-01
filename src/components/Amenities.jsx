@@ -49,3 +49,4 @@ const Amenities = () => {
 };
 
 export default Amenities;
+

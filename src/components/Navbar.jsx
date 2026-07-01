@@ -21,7 +21,7 @@ const Navbar = () => {
         </a>
 
         <div className="nav-actions">
-          <a href="https://wa.me/919001452087" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/919150763527" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
             <Phone size={18} />
             <span>WhatsApp Us</span>
           </a>
@@ -32,3 +32,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+

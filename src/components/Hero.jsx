@@ -16,8 +16,8 @@ const Hero = () => {
         <h1>Experience Divine Peace at<br/><span className="text-primary">Shree Mahakaleshwar Bhakta Niwas</span></h1>
         <p>A tranquil and spiritual stay located near the holy Sandipani Parisar in Ujjain. Your perfect retreat for a divine journey.</p>
         <div className="hero-buttons">
-          <a href="https://wa.me/919001452087" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Book on WhatsApp</a>
-          <a href="https://wa.me/919001452087" target="_blank" rel="noopener noreferrer" className="btn btn-outline" style={{ borderColor: 'white', color: 'white' }}>Enquire Now</a>
+          <a href="https://wa.me/919150763527" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Book on WhatsApp</a>
+          <a href="https://wa.me/919150763527" target="_blank" rel="noopener noreferrer" className="btn btn-outline" style={{ borderColor: 'white', color: 'white' }}>Enquire Now</a>
         </div>
       </div>
     </section>
@@ -25,3 +25,4 @@ const Hero = () => {
 };
 
 export default Hero;
+

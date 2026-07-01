@@ -5,7 +5,7 @@ import './FloatingWhatsApp.css';
 const FloatingWhatsApp = () => {
   return (
     <a 
-      href="https://wa.me/919001452087" 
+      href="https://wa.me/919150763527" 
       className="floating-whatsapp"
       target="_blank"
       rel="noopener noreferrer"
@@ -17,3 +17,4 @@ const FloatingWhatsApp = () => {
 };
 
 export default FloatingWhatsApp;
+

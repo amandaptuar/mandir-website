@@ -24,7 +24,7 @@ const Welcome = () => {
               <div className="feature-item">✔ Impeccable Hygiene</div>
               <div className="feature-item">✔ Secure Parking</div>
             </div>
-            <a href="https://wa.me/919001452087" className="btn btn-primary" target="_blank" rel="noopener noreferrer" style={{ marginTop: '2rem' }}>Book on WhatsApp</a>
+            <a href="https://wa.me/919150763527" className="btn btn-primary" target="_blank" rel="noopener noreferrer" style={{ marginTop: '2rem' }}>Book on WhatsApp</a>
           </div>
           <div className="welcome-image-wrapper">
             <img 
@@ -45,3 +45,4 @@ const Welcome = () => {
 };
 
 export default Welcome;
+
